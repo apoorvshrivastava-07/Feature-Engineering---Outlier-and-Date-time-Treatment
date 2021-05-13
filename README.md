@@ -1,2 +1,6 @@
 # Feature-Engineering---Outlier-and-Date-time-Treatment
-Outliers are values that are unusually high or unusually low respect to the rest of the observations of the variable. There are a few techniques for outlier handling:  1. Outlier removal : Outlier removal refers to removing outlier observations from the dataset. Outliers, by nature are not abundant, so this procedure should not distort the dataset dramatically. But if there are outliers across multiple variables, we may end up removing a big portion of the dataset.  2. Treating outliers as missing values : We can treat outliers as missing information, and carry on any of the imputation methods.  3. Discretisation : Discretisation handles outliers automatically, as outliers are sorted into the terminal bins, together with the other higher or lower value observations. The best approaches are equal frequency and tree based discretisation.  4. Top / bottom / zero coding :
+Outliers are values that are unusually high or unusually low respect to the rest of the observations of the variable. There are a few techniques for outlier handling:  
+1. Outlier removal   
+2. Treating outliers as missing values 
+3. Discretisation  
+4. Top / bottom / zero coding
